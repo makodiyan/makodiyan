@@ -11,7 +11,7 @@ My work sits at the intersection of machine learning research,  production-grade
 
 - **Document AI for structured business data**  
   Designing end-to-end pipelines that combine LLMs, deep learning and statistical ML for IE
-- **TableSense2** — an open-source, Excel-native table detection framework Modernizing spreadsheet understanding using ConvNeXt V2 + DETR-style models. This work is inspired by the [TableSense paper](https://arxiv.org/abs/2106.13500).
+- [**TableSense2**](https://github.com/Docimoto/TableSense2) — an open-source, Excel-native table detection framework Modernizing spreadsheet understanding using ConvNeXt V2 + DETR-style models. This work is inspired by the [TableSense paper](https://arxiv.org/abs/2106.13500).
 
 
 ---
